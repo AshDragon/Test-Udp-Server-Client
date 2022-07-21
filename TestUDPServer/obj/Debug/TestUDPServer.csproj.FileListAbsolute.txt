@@ -1,0 +1,7 @@
+C:\Users\Magas\source\repos\TestUDPServer\bin\Debug\TestUDPServer.exe.config
+C:\Users\Magas\source\repos\TestUDPServer\bin\Debug\TestUDPServer.exe
+C:\Users\Magas\source\repos\TestUDPServer\bin\Debug\TestUDPServer.pdb
+C:\Users\Magas\source\repos\TestUDPServer\obj\Debug\TestUDPServer.csproj.AssemblyReference.cache
+C:\Users\Magas\source\repos\TestUDPServer\obj\Debug\TestUDPServer.csproj.CoreCompileInputs.cache
+C:\Users\Magas\source\repos\TestUDPServer\obj\Debug\TestUDPServer.exe
+C:\Users\Magas\source\repos\TestUDPServer\obj\Debug\TestUDPServer.pdb

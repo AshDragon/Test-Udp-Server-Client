@@ -1,0 +1,7 @@
+C:\Users\Magas\source\repos\TestUDPClient\bin\Debug\TestUDPClient.exe.config
+C:\Users\Magas\source\repos\TestUDPClient\bin\Debug\TestUDPClient.exe
+C:\Users\Magas\source\repos\TestUDPClient\bin\Debug\TestUDPClient.pdb
+C:\Users\Magas\source\repos\TestUDPClient\obj\Debug\TestUDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Magas\source\repos\TestUDPClient\obj\Debug\TestUDPClient.exe
+C:\Users\Magas\source\repos\TestUDPClient\obj\Debug\TestUDPClient.pdb
+C:\Users\Magas\source\repos\TestUDPClient\obj\Debug\TestUDPClient.csproj.AssemblyReference.cache
